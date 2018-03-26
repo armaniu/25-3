@@ -1,3 +1,5 @@
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
 
 Hi, I am arman hossain. I am new in this group.Everybody welcome me.
+
+I have change some text in another.txt file. I am new in git but I am trying to learn git. Every body pray for me.
